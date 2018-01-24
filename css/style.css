@@ -79,8 +79,3 @@ p a:hover, p a:visited{
   text-decoration:underline;
   color: #1783bb;
 }
-
-p a:visited{
-  color: #1783bb;
-  text-decoration:underline;
-}
