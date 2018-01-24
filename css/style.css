@@ -75,7 +75,7 @@ p a{
   outline: 0;
 }
 
-p a:hover, p a:visited{
+p a:hover{
   text-decoration:underline;
   color: #1783bb;
 }
