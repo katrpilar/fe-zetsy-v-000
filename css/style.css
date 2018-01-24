@@ -23,9 +23,11 @@ header{
 }
 
 body header h1 a{
-  margin-bottom: 0px;
   border-bottom: 1px solid #ccc;
-  font: bold 2em 'Baskerville', serif;
+  font: normal 5em 'Baskerville', serif;
+  padding-bottom: 10px;
+  margin: 0 0 5px;
+  
 }
 
 header a{
