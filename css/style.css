@@ -59,3 +59,7 @@ h2{
 .featured-2{
   border: 5px rgb(152,173,166) solid;
 }
+
+.featured-2:hover{
+  border: 5px rgb(152,173,166) solid;
+}
