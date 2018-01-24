@@ -18,3 +18,22 @@ body {
 }
 
 /* Write all remaining styles here */
+header{
+  display: block;
+}
+
+header h1 a{
+  color: rgb(152,173,166);
+  margin-bottom: 0px;
+  border-bottom: 1px solid #ccc;
+  font: normal 5em 'Baskerville', serif;
+  text-decoration: none;
+}
+
+header h1 a:hover{
+  color: rgb(111,127,122);
+}
+
+h2{
+  color: rgb(111,127,122);
+}
