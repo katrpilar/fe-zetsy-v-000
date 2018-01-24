@@ -23,14 +23,14 @@ header{
 }
 
 body header h1 a{
-  color: rgb(152,173,166);
   margin-bottom: 0px;
   border-bottom: 1px solid #ccc;
   font: bold 2em 'Baskerville', serif;
 }
 
-body header h1 a{
+header a{
     text-decoration: none;
+    color: rgb(152,173,166);
 }
 
 header h1 a:hover{
