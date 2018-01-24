@@ -52,6 +52,6 @@ h2{
   font-size: 2em;
 }
 
-#featured{
+.featured{
   border: 5px rgb(152,173,166) solid;
 }
